@@ -1,0 +1,11 @@
+F:\проектікі\Sound recording\Sound recording\bin\Debug\Sound recording.exe.config
+F:\проектікі\Sound recording\Sound recording\bin\Debug\Sound recording.exe
+F:\проектікі\Sound recording\Sound recording\bin\Debug\Sound recording.pdb
+F:\проектікі\Sound recording\Sound recording\bin\Debug\NAudio.dll
+F:\проектікі\Sound recording\Sound recording\bin\Debug\NAudio.xml
+F:\проектікі\Sound recording\Sound recording\obj\Debug\Sound recording.csprojResolveAssemblyReference.cache
+F:\проектікі\Sound recording\Sound recording\obj\Debug\Sound_recording.Form1.resources
+F:\проектікі\Sound recording\Sound recording\obj\Debug\Sound_recording.Properties.Resources.resources
+F:\проектікі\Sound recording\Sound recording\obj\Debug\Sound recording.csproj.GenerateResource.Cache
+F:\проектікі\Sound recording\Sound recording\obj\Debug\Sound recording.exe
+F:\проектікі\Sound recording\Sound recording\obj\Debug\Sound recording.pdb
